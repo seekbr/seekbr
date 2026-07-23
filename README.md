@@ -19,9 +19,5 @@ Desenvolvedor de software apaixonado por programação, criação de jogos e des
 </div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/seekbr/seekbr/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/seekbr/seekbr/output/github-snake.svg" alt="Snake animation">
-  </picture>
+  <img src="https://raw.githubusercontent.com/seekbr/seekbr/output/github-snake.svg" alt="Snake animation"/>
 </p>
